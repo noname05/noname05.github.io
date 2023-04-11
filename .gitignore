@@ -5,3 +5,5 @@ _site
 vendor
 desktop.ini
 _posts/desktop.ini
+.DS_Store
+
